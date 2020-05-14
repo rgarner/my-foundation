@@ -1,0 +1,8 @@
+// https://github.com/foundation/foundation-sites/issues/11762#issuecomment-517613353
+
+@import '_settings';
+@import '~foundation-sites/scss/foundation';
+@import '~motion-ui/src/motion-ui';
+@include foundation-everything;
+@include motion-ui-transitions;
+@include motion-ui-animations;
